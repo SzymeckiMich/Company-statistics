@@ -1,0 +1,7 @@
+Average salary: 6240.0
+Min salary: 4800.0
+Max salary: 10000.0
+All employees: 5
+Employees on management: 1
+Employees on it: 2
+Employees on Support: 2
